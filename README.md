@@ -164,7 +164,6 @@ This project follows the following engineering principles:
 restaurant-delivery-system/
 
 docs/
-frontend/
 backend/
 
 README.md
